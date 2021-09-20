@@ -1,0 +1,16 @@
+{
+  "name": "resume_svisualizer",
+  "version": "1.0.0",
+  "description": "- Bubble Sort \r - Selection Sort\r - Insertion Sort\r - Quick Sort\r - Merge Sort",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d js_files"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://kapoorsatyam.github.io/sortingvisualizer",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
